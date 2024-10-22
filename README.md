@@ -1,4 +1,4 @@
-# Support Ticket System
+# swiffy-ticket-system#
 ## Setup Instructions
 1. Clone the repository.
 2. Run `composer install`.
@@ -16,3 +16,5 @@
 
 - Controller is named TicketController.php
 - Model is named Ticket.php
+
+## Author : Vincent-Mogale 
